@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:mkbot015/sub1.git
+[submodule "module"]
+	path = module
+	url = git@github.com:mkbot015/sub2.git
